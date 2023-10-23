@@ -1,5 +1,5 @@
 # Hi there 👋
-## 🧑🏻‍💻 Competitive Programming
+## 🧑🏻‍💻 Competitive Programming Stats
 <a href="https://codeforces.com/profile/autoastt">
   <img 
     src="https://codeforces-readme-stats.vercel.app/api/card?username=autoastt&theme=dark&disable_animations=false&show_icons=true&force_username=true&border_color=404040" 
