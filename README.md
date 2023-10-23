@@ -1,10 +1,11 @@
 # Hi there 👋🏻
 - My name is Peeranat Kongkijpipat
-- I'm currently studying CS at NTU Singapore
+- I'm currently studying BIZ & CS at NTU Singapore
+
 ## 🧑🏻‍💻 Competitive Programming
 <a href="https://codeforces.com/profile/autoastt">
   <img 
-    src="https://codeforces-readme-stats.vercel.app/api/card?username=autoastt&theme=dark&disable_animations=false&show_icons=true&force_username=true&border_color=404040" 
+    src="https://codeforces-readme-stats.vercel.app/api/card?username=autoastt&theme=dark&disable_animations=false&show_icons=true&force_username=true&border_color=404040&icon_color=F9ED69" 
     height="300"
     alt="cf-stats"
     />
