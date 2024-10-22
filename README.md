@@ -1,7 +1,7 @@
 # Hi there 👋🏻
-- My name is Peeranat Kongkijpipat
-- I'm currently studying BIZ & CS at NTU Singapore
+- I'm Peeranat Kongkijpipat, and I'm currently studying CS & Business at NTU Singapore
 
+<!--
 ## 🧑🏻‍💻 Competitive Programming
 <a href="https://codeforces.com/profile/autoastt">
   <img 
@@ -18,6 +18,7 @@
     alt="leet-stats"
     />
 </a>
+-->
 
 <!--
 **autoastt/autoastt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
